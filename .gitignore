@@ -266,3 +266,5 @@ xcuserdata
 # 
 
 *.xccheckout
+code/sound/phrases.cfg
+code/sound/grammar.h
